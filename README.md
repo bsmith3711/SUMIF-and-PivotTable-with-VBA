@@ -7,6 +7,7 @@ I created some advanced functions to analyse the data including a SUMIF sheet, a
 
 Below is the VBA code for the "CleanseAndCreateColumns" macro:
 
+
 Sub CleanseAndCreateColumns()
     Dim ws As Worksheet
     Dim lastRow As Long
@@ -66,4 +67,5 @@ Sub CleanseAndCreateColumns()
     ws.Columns("E:I").AutoFit
     Application.ScreenUpdating = True ' Re-enable screen updating
 End Sub
+
 
