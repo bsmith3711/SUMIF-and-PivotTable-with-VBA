@@ -5,4 +5,4 @@ This Excel workbook was created using Kaggle data about ecommerce sales / engage
 
 I created some advanced functions to analyse the data including a SUMIF sheet, a Pivot Table, as well as a VBA macro to automate the raw data cleanse process.
 
-Below is the VBA code for the "CleanseAndCreateColumns" macro:
+The VBA code can also be found in the file "VBA macro" within this repository. 
